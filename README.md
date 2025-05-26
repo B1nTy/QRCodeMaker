@@ -24,8 +24,8 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/B1nTy/QR-code-maker.git
-cd QR-code-maker
+git clone https://github.com/B1nTy/QRCodeMaker.git
+cd QRCodeMaker
 
 # Установка зависимостей
 pnpm install
